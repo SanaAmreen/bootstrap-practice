@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.Nature{
+height: 200px;
+width: 200px
+
+}
+.Food{
+  width: 200px;
+  height: 300x;
+}
+.Cards{
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  height: 300x;
+
+  ;
+}
+.Earing{
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  height: 300x;
+
+}
+.Earings{
+  
+  width: 200px;
+  height: 200x;
+
+}
+.cardsInline{
+  display: inline-flex
+}
