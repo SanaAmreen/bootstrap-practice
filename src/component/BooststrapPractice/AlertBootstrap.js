@@ -1,5 +1,5 @@
 import React from 'react'
-import {carousel,Alert} from 'react-bootstrap'
+import {Alert} from 'react-bootstrap'
 
 export default function CarouselBoostrap() {
   return (

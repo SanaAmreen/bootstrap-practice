@@ -69,3 +69,11 @@ width: 200px
 .cardsInline{
   display: inline-flex
 }
+.Turkey{
+  width: 500;
+  height: 500;
+}
+.mod-als{
+  display: flex;
+  float: right
+}
