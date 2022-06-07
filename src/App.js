@@ -16,15 +16,24 @@ import AlertBoostrap from './component/BooststrapPractice/AlertBootstrap'
 import CarouselBootsraps from './component/BooststrapPractice/CarouselBootsraps';
 import ModalBootstrap from './component/BooststrapPractice/ModalBootstrap';
 import PlceholderBootsrap from './component/BooststrapPractice/PlceholderBootsrap';
+import ProgressBootstrap from './component/BooststrapPractice/ProgressBootstrap';
+import SpinnersBootstrap from './component/BooststrapPractice/SpinnersBootstrap';
+import TablesBootstrap from './component/BooststrapPractice/TablesBootstrap';
+import TabBootstrap from './component/BooststrapPractice/TabBootstrap';
+import ToastBoostrap from './component/BooststrapPractice/ToastBoostrap';
+import FormBoostrap from './component/BooststrapPractice/FormBoostrap';
+
 
 function App() {
   return (
     <div className="App">
     
-      
+    <TabBootstrap/>
+      <ProgressBootstrap/>
      <BootstrapAccordian/>
      <BadgeBootStrap/>
      <BreadcrumbsBootstrap/>
+     
      <ButtonsBootstrap/>
      <CardsBootstrap/>
      <AlertBoostrap/>
@@ -34,6 +43,11 @@ function App() {
      <CarouselBootsraps/>
      <ModalBootstrap/>
      <PlceholderBootsrap/>
+     <SpinnersBootstrap/>
+     <TablesBootstrap/>
+     <ToastBoostrap/>
+     <FormBoostrap/>
+     
     </div>
   );
 }

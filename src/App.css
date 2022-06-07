@@ -77,3 +77,20 @@ width: 200px
   display: flex;
   float: right
 }
+thead{
+  backdrop-filter: blur(10px);
+}
+.Ta-ble{
+  color: rgb(80, 12, 103);
+  font-weight: 200;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  border: #61dafb;
+
+}
+.Caption{
+  
+  display: flex;
+  
+  
+}
